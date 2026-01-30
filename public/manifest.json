@@ -1,0 +1,10 @@
+{
+  "name": "Ice Mine Slots",
+  "short_name": "IceMineSlots",
+  "description": "Free social slot game",
+  "theme_color": "#0c4a6e",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": []
+}
